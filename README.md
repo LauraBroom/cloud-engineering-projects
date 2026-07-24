@@ -9,6 +9,7 @@ identity, networking, compute, storage, and disaster recovery.
 - [Provisioning and managing users in Microsoft Entra ID](azure/identity/create-user-entra-id.md)
 - [Managing user properties in Microsoft Entra ID](azure/identity/manage-user-properties-entra-id.md)
 - [Assigning a license to a user in Microsoft Entra ID](azure/identity/assign-license-entra-id.md)
+- [Creating a security group in Microsoft Entra ID](azure/identity/create-security-group-entra-id.md)
 
 
  
