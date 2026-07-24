@@ -7,3 +7,7 @@ identity, networking, compute, storage, and disaster recovery.
 
 ## Identity & Access
 - [Provisioning and managing users in Microsoft Entra ID](azure/identity/create-user-entra-id.md)
+- [Managing user properties in Microsoft Entra ID](azure/identity/manage-user-properties-entra-id.md)
+
+
+ 
