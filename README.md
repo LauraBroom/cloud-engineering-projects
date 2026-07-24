@@ -1,6 +1,6 @@
 # Cloud Engineering Projects
 
-Azure infrastructure I've designed, deployed, and configured — spanning 
+Azure infrastructure I have designed, deployed, and configured, spanning 
 identity, networking, compute, storage, and disaster recovery.
 
 ## Identity & Access
