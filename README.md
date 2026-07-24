@@ -1,3 +1,5 @@
+![Cloud Engineering Projects](banner-purple.svg)
+
 # Cloud Engineering Projects
 
 Azure infrastructure I have designed, deployed, and configured, spanning 
