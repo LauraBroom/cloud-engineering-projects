@@ -1,0 +1,33 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#150d2b"/>
+
+  <!-- Angular accent shape, top right, off-center -->
+  <polygon points="1200,0 1200,180 980,0" fill="#2a1a52"/>
+  <polygon points="1200,0 1200,90 1120,0" fill="#4c2f8f"/>
+
+  <!-- Thin rule line under top margin -->
+  <line x1="70" y1="56" x2="1130" y2="56" stroke="#3a2a63" stroke-width="1"/>
+
+  <!-- Eyebrow label, monospace, wide letter spacing -->
+  <text x="70" y="42" font-family="'Courier New', monospace" font-size="13" letter-spacing="4" fill="#9575e0">AZURE &#8226; INFRASTRUCTURE ENGINEERING</text>
+
+  <!-- Main title, condensed serif-ish weight for distinction -->
+  <text x="68" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#f3eefc">Cloud Engineering</text>
+  <text x="68" y="184" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#a78bfa">Projects</text>
+
+  <!-- Vertical divider -->
+  <line x1="700" y1="76" x2="700" y2="230" stroke="#3a2a63" stroke-width="1"/>
+
+  <!-- Right column: domain list, monospace, right-aligned rhythm -->
+  <g font-family="'Courier New', monospace" font-size="15" fill="#cbb8f2">
+    <text x="730" y="100">01 &#8212; identity &amp; access</text>
+    <text x="730" y="130">02 &#8212; networking</text>
+    <text x="730" y="160">03 &#8212; compute</text>
+    <text x="730" y="190">04 &#8212; storage</text>
+    <text x="730" y="220">05 &#8212; disaster recovery</text>
+  </g>
+
+  <!-- Bottom rule + footer note -->
+  <line x1="70" y1="248" x2="1130" y2="248" stroke="#3a2a63" stroke-width="1"/>
+  <text x="70" y="268" font-family="'Courier New', monospace" font-size="12" letter-spacing="1" fill="#6d5a99">designed &#8226; deployed &#8226; documented</text>
+</svg>
