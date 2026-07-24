@@ -12,7 +12,7 @@ Assigned Chris Green as owner and added Mike Mitchell as a member, then created 
 
 ## What I learned
 
-The owner versus member distinction is more important than it looks on the surface. A member gets whatever access the group grants, but an owner can manage the group itself, meaning add or remove members without needing directory-wide admin rights. That's a meaningful delegation tool, since it lets you hand off day to day group management without giving someone broader permissions than they need.
+The owner versus member distinction is more important than it looks on the surface. A member gets whatever access the group grants, but an owner can manage the group itself, meaning add or remove members without needing directory wide admin rights. That's a meaningful delegation tool, since it lets you hand off day to day group management without giving someone broader permissions than they need.
 
 Choosing Assigned membership here also made the tradeoff clearer between the two membership types. Assigned gives full manual control but means someone has to remember to update it as people change roles or leave. Dynamic would have handled that automatically based on attributes, at the cost of giving up direct control over exactly who's in the group at any given moment. Picking the right one really depends on how much the group's purpose lines up with attributes you can reliably filter on.
 
