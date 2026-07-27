@@ -1,8 +1,6 @@
 # Provisioning a User in Microsoft Entra ID
 
-Configured a new user account in Microsoft Entra ID with custom identity 
-attributes (UPN, department, job title, usage location), as part of 
-building out core identity management skills in Azure.
+Configured a new user account in Microsoft Entra ID with custom identity attributes, including UPN, department, job title, and usage location.
 
 ## Details
 | Field | Value |
