@@ -19,4 +19,4 @@ Choosing Assigned membership here also made the tradeoff clearer between the two
 Verifying through both the Members and Owners tabs separately, rather than assuming the creation step worked, reinforced the same habit from the licensing lab: confirm the change actually took effect instead of trusting the confirmation dialog alone.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/create-a-security-group-in-microsoft-entra-id/)*
+*Deployed and tested in Azure via [LabITPro](https://labitpro.com/create-a-security-group-in-microsoft-entra-id/)*
