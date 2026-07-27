@@ -40,4 +40,4 @@ already populated, so the task became about accuracy and judgment (what
 needs to change and what doesn't) rather than data entry.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/manage-user-properties-in-microsoft-entra-id/)*
+*Deployed and tested in Azure via [LabITPro](https://labitpro.com/manage-user-properties-in-microsoft-entra-id/)*
