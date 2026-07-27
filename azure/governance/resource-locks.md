@@ -1,6 +1,6 @@
 # Adding and Removing Resource Locks in Azure
 
-Applied a Delete lock to a virtual machine to prevent accidental removal, then tested and removed the lock as part of building out governance and resource protection skills in Azure.
+Applied a Delete lock to a virtual machine to prevent accidental removal, then tested and removed the lock to confirm the protection behaved as expected.
 
 ## Details
 | Field | Value |
