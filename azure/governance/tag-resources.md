@@ -27,4 +27,4 @@ Reusing an existing tag name across resources, instead of creating a new one eac
 This maps directly onto how I think about client environments in my current role, where knowing at a glance which systems are production versus non production matters for avoiding mistakes during troubleshooting or maintenance windows.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/tag-resources-in-microsoft-azure/?utm_source=udemy&utm_campaign=az104_course)*
+*Deployed and tested in Azure via [LabITPro](https://labitpro.com/tag-resources-in-microsoft-azure/?utm_source=udemy&utm_campaign=az104_course)*
