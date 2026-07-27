@@ -6,7 +6,7 @@ Created a security group in Microsoft Entra ID with assigned membership, then co
 
 Started in the Microsoft Entra Admin Center under Identity > Groups > All Groups, and clicked New Group. Set the Group Type to Security and named it HumanResources.
 
-For Membership Type, selected Assigned rather than Dynamic, since this group needed manual control over who's in it rather than rule-based membership.
+For Membership Type, selected Assigned rather than Dynamic, since this group needed manual control over who's in it rather than membership driven by rules.
 
 Assigned Chris Green as owner and added Mike Mitchell as a member, then created the group. After refreshing to confirm it appeared in the group list, opened it back up and checked both the Members and Owners tabs to verify Mike Mitchell and Chris Green were listed correctly under each.
 
