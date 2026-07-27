@@ -14,7 +14,7 @@ Configured a new user account in Microsoft Entra ID with custom identity attribu
 
 ## Implementation
 Navigated to Identity > Users in the Azure portal and created a new user 
-manually. Set the UPN and domain suffix to establish the unique sign-in 
+manually. Set the UPN and domain suffix to establish the unique sign in 
 identity, then configured display name and property fields (job title, 
 department, company). Set Usage Location to United States and skipped 
 role assignment for this exercise, then reviewed and created the user.
