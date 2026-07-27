@@ -39,4 +39,4 @@ first and decide what they are allowed to touch afterward, which mirrors
 how access control should work in any secure environment.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/create-a-new-user-in-microsoft-entra-id)*
+*Deployed and tested in Azure viaHands-on practice via [LabITPro](https://labitpro.com/create-a-new-user-in-microsoft-entra-id)*
