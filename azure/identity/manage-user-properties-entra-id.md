@@ -1,8 +1,6 @@
 # Managing User Properties in Microsoft Entra ID
 
-Updated an existing user's properties in Microsoft Entra ID, including 
-organizational details, manager assignment, and group membership, as 
-part of building out core identity management skills in Azure.
+Updated an existing user's properties in Microsoft Entra ID, including organizational details, manager assignment, and group membership.
 
 ## Details
 | Field | Value |
