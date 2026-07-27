@@ -1,4 +1,4 @@
-![Cloud Engineering Projects](banner-purple.svg)
+
 
 # Cloud Engineering Projects
 
