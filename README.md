@@ -11,5 +11,5 @@ identity, networking, compute, storage, and disaster recovery.
 - [Assigning a license to a user in Microsoft Entra ID](azure/identity/assign-license-entra-id.md)
 - [Creating a security group in Microsoft Entra ID](azure/identity/create-security-group-entra-id.md)
 
-
- 
+## Identity & Access
+- [Adding and removing resource locks in Azure](azure/governance/resource-locks.md)
