@@ -27,4 +27,4 @@ I also saw how the lock surfaces directly at the point of deletion rather than f
 Locks work independently of role based access, so they add a layer of protection that holds even for users who otherwise have permission to delete the resource.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/adding-and-removing-resource-locks-in-microsoft-azure/?utm_source=udemy&utm_campaign=az104_course)*
+*Deployed and tested in Azure via [LabITPro](https://labitpro.com/adding-and-removing-resource-locks-in-microsoft-azure/?utm_source=udemy&utm_campaign=az104_course)*
