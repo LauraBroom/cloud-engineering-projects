@@ -19,4 +19,4 @@ It also reinforced that a license and a role are two different things. Assigning
 Refreshing on the Entra ID side after making the change in M365 was a small step but a useful habit, since it's a reminder that these two admin centers don't always sync instantly and verifying the change actually took effect is part of the job, not an afterthought.
 
 ---
-*Hands-on practice via [LabITPro](https://labitpro.com/assign-licenses-to-users-in-microsoft-entra-id/)*
+*Deployed and tested in Azure via [LabITPro](https://labitpro.com/assign-licenses-to-users-in-microsoft-entra-id/)*
