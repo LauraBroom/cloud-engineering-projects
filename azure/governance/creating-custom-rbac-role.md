@@ -23,4 +23,10 @@ Added the subscription as an additional assignable scope alongside the default r
 Confirmed the role appeared under custom roles, then assigned it to a test user.
 
 ## What I learned
-Building a role from scratch instead of cloning gave me full control over exactly which permissions it included, rather than trimming down an
+Building the role from scratch instead of cloning gave me full control over exactly which permissions it included, rather than trimming down an existing role that came with more access than I needed.
+
+Custom role permissions in Azure are organized by resource provider, not by the friendly service names shown in the portal. Action groups and Azure Monitor are actually grouped together under the name Microsoft Insights, which is why I had to look there to find the right permissions at all.
+
+Scoping the role narrowly to just action groups, instead of broader Insights or subscription access, is a clearer example of least privilege than relying on a built in role would have been.
+
+Adding an assignable scope beyond the default gave me a better sense of how the same custom role could be reused across a resource group or an entire subscription, depending on where it's assigned.
