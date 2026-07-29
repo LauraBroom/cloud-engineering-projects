@@ -14,3 +14,4 @@ identity, networking, compute, storage, and disaster recovery.
 ## Governance
 - [Adding and removing resource locks in Azure](azure/governance/resource-locks.md)
 - [Tagging resources in Microsoft Azure](azure/governance/tag-resources.md)
+- [Creating a custom RBAC role for action group management](azure/governance/creating-custom-rbac-role.md)
