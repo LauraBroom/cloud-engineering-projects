@@ -14,7 +14,7 @@ Opened the Access Control (IAM) pane for the resource group and selected Add, th
 
 Started the role from scratch rather than cloning an existing role or using a JSON template, then named it and added a description.
 
-Action groups do not appear under their own category in the permissions picker, so I navigated into the Azure Monitor grouping to find them. Action groups fall under the Microsoft Insights namespace, the same resource provider Azure Monitor uses.
+Action groups do not appear under their own category in the permissions picker, so I navigated into the Azure Monitor grouping to find them. Behind the scenes, Azure Monitor and action groups are both part of the same underlying service, Microsoft Insights, which is why the permissions showed up there.
 
 Within Microsoft Insights, located the action group permissions specifically and selected create, delete, update, and read, keeping the role scoped narrowly instead of granting broader access.
 
